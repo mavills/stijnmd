@@ -30,14 +30,19 @@ resource "cloudflare_pages_project" "blog" {
   }
 
   deployment_configs = {
-    production = {}
+    production = {
+      fail_open = false
+    }
+    preview = {
+      fail_open = false
+    }
   }
 }
 
 resource "cloudflare_pages_domain" "blog" {
   account_id   = var.cloudflare_account_id
   project_name = cloudflare_pages_project.blog.name
-  domain       = "stijn.md"
+  name         = "stijn.md"
 }
 
 resource "cloudflare_dns_record" "blog" {
@@ -46,4 +51,5 @@ resource "cloudflare_dns_record" "blog" {
   type    = "CNAME"
   content = "stijnmd.pages.dev"
   proxied = true
+  ttl     = 1
 }

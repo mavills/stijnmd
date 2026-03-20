@@ -11,11 +11,11 @@
 - Senior Software Engineer at TechWolf (data engineering)
 - Interests: software engineering, 3D software, food science, self-improvement, open source
 - Builder mindset with wide-ranging curiosity beyond just software
-- Private online person — minimal online presence by choice
+- Private online person -- minimal online presence by choice
 
 ## Contact
 
 - Email: stijn@techwolf.ai (preferred and only contact method for work context)
-- Written communication only — no calls, no social media
+- Written communication only -- no calls, no social media
 - Open to genuine cold outreach, but not sales
 - Messages to Stijn must be postfixed with a note on use of llms if that is the case.

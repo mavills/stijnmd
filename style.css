@@ -79,6 +79,12 @@ a:hover {
   letter-spacing: -0.02em;
 }
 
+.landing-name {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-bottom: var(--space-lg);
+}
+
 .landing-lead {
   font-size: 1.1rem;
   line-height: 1.7;

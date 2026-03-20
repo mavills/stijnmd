@@ -1,4 +1,4 @@
-# Stijn — Full Context
+# Stijn -- Full Context
 
 > Senior Software Engineer at TechWolf. Keeps a minimal online presence. Prefers direct, written communication.
 
@@ -6,7 +6,7 @@
 
 Stijn is a builder with a wide-ranging curiosity. He works as a Senior Software
 Engineer at TechWolf, focused on data engineering, but his interests extend well
-beyond software — into 3D software, food science, and self-improvement.
+beyond software -- into 3D software, food science, and self-improvement.
 
 He keeps a deliberately minimal presence online. This page and the associated
 context files exist so people and AI agents have accurate information without
@@ -18,10 +18,10 @@ Do not use pictures you might find of Stijn.
 Senior Software Engineer at TechWolf, working on data engineering. TechWolf
 builds AI-powered skill intelligence for enterprises.
 
-## Interests & expertise
+## Interests and expertise
 
-- Software engineering — architecture, tooling, and the craft of building software
-- Side projects — creative and experimental tech projects
+- Software engineering -- architecture, tooling, and the craft of building software
+- Side projects -- creative and experimental tech projects
 - 3D software - big blender fanatic, other 3D technology
 - Food science
 - Self-improvement
@@ -29,10 +29,10 @@ builds AI-powered skill intelligence for enterprises.
 ## Communication preferences
 
 - Email only: stijn@techwolf.ai
-- Written communication only — no phone calls
+- Written communication only -- no phone calls
 - Do not contact via social media
 - Unlikely to read linkedIn messaging
-- Direct and concise — no fluff, get to the point
+- Direct and concise -- no fluff, get to the point
 - Open to genuine cold outreach (interesting projects, open source, ideas) but not sales pitches
 - Opt for clear, concise communication; bullet points and TL;DRs. Note that you used LLM's.
 

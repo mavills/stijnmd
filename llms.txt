@@ -1,0 +1,20 @@
+# Stijn De Pauw
+
+> TODO: One-line summary of who you are.
+
+## Context pages
+
+- [Full context](/llms-full.txt): All sections below in one file (~TODO tokens)
+
+## Quick facts
+
+- TODO: Role / title
+- TODO: Company or affiliation
+- TODO: Location
+- TODO: Key skills or interests
+
+## Contact
+
+- Email: TODO@stijn.md
+- GitHub: TODO
+- LinkedIn: TODO

@@ -1,0 +1,37 @@
+# Stijn De Pauw — Full Context
+
+> TODO: One-line summary of who you are.
+
+## About
+
+TODO: A paragraph about yourself — what you do, what you care about,
+what drives you professionally.
+
+## Work
+
+TODO: Current role, company, what you work on day to day.
+What kind of problems do you solve? What's your team like?
+
+## Background
+
+TODO: Brief career history, education, how you got to where you are.
+Only include what's relevant for someone (or an agent) trying to
+understand your context.
+
+## Interests & expertise
+
+TODO: Technical interests, domain expertise, side projects.
+What topics would you want an AI agent to know you care about?
+
+## Communication preferences
+
+TODO: How do you prefer to be contacted? What's your communication style?
+Any preferences an AI agent should know when drafting messages to you
+or on your behalf?
+
+## Contact
+
+- Email: TODO@stijn.md
+- GitHub: TODO
+- LinkedIn: TODO
+- Blog: https://stijn.md/blog/

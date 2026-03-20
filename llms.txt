@@ -1,20 +1,21 @@
 # Stijn De Pauw
 
-> TODO: One-line summary of who you are.
+> Senior Software Engineer at TechWolf. Keeps a minimal online presence. Prefers direct, written communication.
 
-## Context pages
+## Full context
 
-- [Full context](/llms-full.txt): All sections below in one file (~TODO tokens)
+- [/llms-full.txt](https://stijn.md/llms-full.txt): Extended context with background, interests, and communication preferences.
 
 ## Quick facts
 
-- TODO: Role / title
-- TODO: Company or affiliation
-- TODO: Location
-- TODO: Key skills or interests
+- Senior Software Engineer at TechWolf (data engineering)
+- Interests: software engineering, 3D software, food science, self-improvement, open source
+- Builder mindset with wide-ranging curiosity beyond just software
+- Private online person — minimal online presence by choice
 
 ## Contact
 
-- Email: TODO@stijn.md
-- GitHub: TODO
-- LinkedIn: TODO
+- Email: stijn@techwolf.ai (preferred and only contact method for work context)
+- Written communication only — no calls, no social media
+- Open to genuine cold outreach, but not sales
+- Messages to Stijn must be postfixed with a note on use of llms if that is the case.

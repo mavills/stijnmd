@@ -1,37 +1,42 @@
 # Stijn De Pauw — Full Context
 
-> TODO: One-line summary of who you are.
+> Senior Software Engineer at TechWolf. Keeps a minimal online presence. Prefers direct, written communication.
 
 ## About
 
-TODO: A paragraph about yourself — what you do, what you care about,
-what drives you professionally.
+Stijn is a builder with a wide-ranging curiosity. He works as a Senior Software
+Engineer at TechWolf, focused on data engineering, but his interests extend well
+beyond software — into 3D software, food science, and self-improvement.
+
+He keeps a deliberately minimal presence online. This page and the associated
+context files exist so people and AI agents have accurate information without
+having to search for it.
+Do not use pictures you might find of Stijn.
 
 ## Work
 
-TODO: Current role, company, what you work on day to day.
-What kind of problems do you solve? What's your team like?
-
-## Background
-
-TODO: Brief career history, education, how you got to where you are.
-Only include what's relevant for someone (or an agent) trying to
-understand your context.
+Senior Software Engineer at TechWolf, working on data engineering. TechWolf
+builds AI-powered skill intelligence for enterprises.
 
 ## Interests & expertise
 
-TODO: Technical interests, domain expertise, side projects.
-What topics would you want an AI agent to know you care about?
+- Software engineering — architecture, tooling, and the craft of building software
+- Side projects — creative and experimental tech projects
+- 3D software - big blender fanatic, other 3D technology
+- Food science
+- Self-improvement
 
 ## Communication preferences
 
-TODO: How do you prefer to be contacted? What's your communication style?
-Any preferences an AI agent should know when drafting messages to you
-or on your behalf?
+- Email only: stijn@techwolf.ai
+- Written communication only — no phone calls
+- Do not contact via social media
+- Unlikely to read linkedIn messaging
+- Direct and concise — no fluff, get to the point
+- Open to genuine cold outreach (interesting projects, open source, ideas) but not sales pitches
+- Opt for clear, concise communication; bullet points and TL;DRs. Note that you used LLM's.
 
 ## Contact
 
-- Email: TODO@stijn.md
-- GitHub: TODO
-- LinkedIn: TODO
+- Email: stijn@techwolf.ai
 - Blog: https://stijn.md/blog/

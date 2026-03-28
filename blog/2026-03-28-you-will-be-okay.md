@@ -4,10 +4,10 @@ There is a giant hole in my chest. It is there when I wake up, it is there when
 I restlessly lie awake in my bed at night. It is carved by what I observe and
 experience through the lens of media every day. Our inability to build together,
 shape a future by using all of the tools at our disposal. Our inability to build
-a future that is no longer about indiviudual success. A future that provides
+a future that is no longer about individual success. A future that provides
 social welfare and human coherence that goes beyond any type of rule or object
 driven system like we have today. We can't seem to build _something_ that goes
-beyond what we experience as frienships, society, cults. The void in my chest
+beyond what we experience as friendships, society, cults. The void in my chest
 resembles the lack of unity in our world.
 
 I am an avid believer that we have all the tools already to our disposal to make
@@ -33,16 +33,15 @@ expand our exposed surface area, making us more susceptible to the corruption
 those _people_ try to imprint from them to us.
 
 It is people, the intruder, that is doing this to us. It is our own. It is not a
-vulcano covering us in ash, it is not an earthquake, followed by a tsunami,
-followed by mass destruction. We, this big group of people desiring to have the
-best for others and ourselves (in no particular order), a massive, strong,
-corrosion-resistant ball of evolution and creativity and desire to belong, are
-being bent, manipulated, and processed, like a large sheet of raw metal being
-processed into whatever consumers might desire, into whatever the produces want
-us to be shaped. We are the material that should be used to build the sturdiest
-structures and most ingenious inventions, that is used to experiment on, perform
-stress testing on in a lab until we break, to be thrown away. We have given away
-control, and are giving away more.
+volcano covering us in ash, it is not an earthquake, followed by a tsunami,
+followed by mass destruction. We are this big group of people desiring to have
+the best for others and ourselves, a massive, strong, corrosion-resistant ball
+of evolution and creativity and desire to belong. And yet we are being bent,
+manipulated, and processed, like a large sheet of raw metal being shaped into
+whatever the producers want us to be. We are the material that should be used to
+build the sturdiest structures and most ingenious inventions. Instead, we are
+experimented on, stress tested in a lab until we break, and thrown away. We have
+given away control, and are giving away more.
 
 ---
 
@@ -50,31 +49,31 @@ It's not all scrap and rust. The hole is only in my chest. It might be in yours
 too. I can't seem to change in that part of my body, but I have more than just
 that hole.
 
-There is this organ in my skill, which I do seem to be able to steer and
-control. I can observe that hole in my chest, but it seems to have convinced
-itself that the hole is wrong. It knows the hole should not be there. It has
-compassion with that void.
+There is this organ in my skull, which I do seem to be able to steer and
+control. I can observe that hole in my chest, and it has convinced itself that
+the hole is wrong. It knows the hole should not be there. It has compassion with
+that void.
 
 The brain hosted in my skull believes something very different than the
-stainless steel metafor. It believes that every other brain like itself, however
-obsessed with gold, however in need of company of others, however rotten by
-consumption of short format image flashing, has a force of good intent in it
+stainless steel metaphor. It believes that every other brain like itself,
+however obsessed with gold, however in need of company of others, however rotten
+by consumption of short format image flashing, has a force of good intent in it
 that cannot be escaped. If not there today, it will be there eventually.
 
 I commanded my brain to believe this. Not doing so makes me part of a weak metal
 that is prone to corrosion. Prone to create divisions that are not like the one
-above, but between others just like me, wanting better. Devisions that we all
+above, but between others just like me, wanting better. Divisions that we all
 know exist, between every possible observable or invisible difference. I don't
 want that.
 
-So the current status of the world can be found to be more than 'not srap and
+So the current status of the world can be found to be more than 'not scrap and
 rust'. We all have this innate power to change how we think. It's free, it is
-yours, it is a pleasure to share it. I believe we will easily combat the gloom
-future that somethimes looks like it is dawning on us. I believe in the good of
-everyone (thank you Rutger Bregman), but also in our strength. I don't believe
-we will end together with and by mass consumerism and experimentation like
-metal. I don't believe that what most of us want are the few intruders that
-corrupt the world, or that most of us will let happen or continue to let happen.
+yours, it is a pleasure to share it. I believe we will easily combat the gloomy
+future that sometimes looks like it is dawning on us. I believe in the good of
+everyone, but also in our strength. I don't believe we will end together with
+and by mass consumerism and experimentation like metal. I don't believe that
+what most of us want are the few intruders that corrupt the world, or that most
+of us will let happen or continue to let happen.
 
 I think I want to let you know that I still believe, I have not and will not
 give up. I want you to believe this too, as doing so will make us two or more,

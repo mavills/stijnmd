@@ -215,6 +215,12 @@ article p {
   margin-bottom: 1.2rem;
 }
 
+hr {
+  border: none;
+  height: 0;
+  margin: var(--space-xl) 0;
+}
+
 /* Footer */
 
 footer {

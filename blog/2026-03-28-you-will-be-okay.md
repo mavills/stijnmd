@@ -50,7 +50,7 @@ too. I can't seem to change in that part of my body, but I have more than just
 that hole.
 
 There is this organ in my skull, which I do seem to be able to steer and
-control. I can observe that hole in my chest, and it has convinced itself that
+control. It can observe that hole in my chest, and it has convinced itself that
 the hole is wrong. It knows the hole should not be there. It has compassion with
 that void.
 

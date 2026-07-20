@@ -50,6 +50,10 @@ def parse_md(path: Path) -> tuple[str, str, str]:
 
     body = text[title_match.end() :].strip()
 
+    # Python-Markdown ignores CommonMark's trailing-backslash hard break;
+    # translate it to the two-space marker it does understand.
+    body = body.replace("\\\n", "  \n")
+
     html_body = markdown.markdown(body)
 
     return title, html_body
